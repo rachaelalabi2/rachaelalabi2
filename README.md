@@ -5,7 +5,7 @@
   
   - [Vulnerability Management](https://github.com/rachaelalabi2/Nessus-Vulnerabilty-Scan)
   - [NIST RMF Security Categorization](https://github.com/rachaelalabi2/NIST-RMF-Categorization-Using-SP-800-60-Vol-II-)
-- <h2> 📄 Certifications</h2>
+ <h2> 📄 Certifications</h2>
  - CompTIA SEC +
   
   
